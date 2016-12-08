@@ -1,0 +1,17 @@
+name = Website fields field base feature
+core = 7.x
+package = Website Basic Config
+version = 7.x-1.0
+dependencies[] = features
+dependencies[] = image
+dependencies[] = list
+dependencies[] = taxonomy
+dependencies[] = text
+features[features_api][] = api:2
+features[field_base][] = body
+features[field_base][] = comment_body
+features[field_base][] = field_image
+features[field_base][] = field_sponsored
+features[field_base][] = field_tags
+features[taxonomy][] = tags
+project path = sites/all/modules/features
