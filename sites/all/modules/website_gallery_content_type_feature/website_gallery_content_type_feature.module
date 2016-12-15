@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Website Gallery Content type feature feature.
+ */
+
+include_once 'website_gallery_content_type_feature.features.inc';
